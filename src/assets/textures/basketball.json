@@ -1,0 +1,28 @@
+{"frames": {
+
+"ball_bbb1.png":
+{
+	"frame": {"x":0,"y":0,"w":103,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":103},
+	"sourceSize": {"w":103,"h":103}
+},
+"ball_bbb2.png":
+{
+	"frame": {"x":1,"y":1,"w":103,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":10,"w":93,"h":93},
+	"sourceSize": {"w":103,"h":103}
+}},
+"meta": {
+	"app": "http://www.dummy.com",
+	"version": "1.0",
+	"image": "basketball.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "dummy value"
+}
+}
